@@ -18,6 +18,8 @@
 
 ###
 
+<p align="left">JavaScript • HTML5 • CSS3 • React • Angular • NestJS • Java • Python • Dart • Swift • Flutter • Android</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
