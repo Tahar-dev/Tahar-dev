@@ -12,7 +12,7 @@
 ## Technologies & Tools
 
 ### Web Technologies & Tools
-JavaScript • HTML5 • CSS3 • React • Angular • NestJS
+HTML5 • CSS3 • JavaScript • React • Angular • NestJS
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -28,17 +28,9 @@ JavaScript • HTML5 • CSS3 • React • Angular • NestJS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
 </div>
 
-### Desktop Development Technologies & Tools
-Java • JavaFX • Python • Tkinter
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
 
 ### Mobile Technologies & Tools
-Dart • Swift • Flutter • Android
+Flutter • Dart • Android • Swift
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
@@ -49,3 +41,13 @@ Dart • Swift • Flutter • Android
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
+
+### Desktop Development Technologies & Tools
+Python • Tkinter • Java • JavaFX 
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
